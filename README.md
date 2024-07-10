@@ -46,7 +46,6 @@
     </a>
   </p>
 </div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-rakhonde&show_icons=true&locale=en&layout=compact" alt="vishal-rakhonde" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
