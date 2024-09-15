@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Rakhonde</h1>
 💫 About Me:
-🔭 I’m currently working on: Enhancing my skills in advanced computing through my post graduate diploma program.<br>👯 I’m looking to collaborate on: Software development projects where I can contribute with my knowledge of MERN stack, software development methodologies, and algorithms.<br>🤝 I’m looking for help with: Mastering MySQL for database management and learning efficient data structures and algorithms.<br>🌱 I’m currently learning: Advanced topics in computing, including web-based programming with the MERN stack, software development methodologies, DSA and MySQL.<br>⚡Fun fact: I enjoy exploring new coding challenges and finding creative solutions to everyday problems through technology!
+🔭 I’m currently working on: Enhancing my skills in advanced computing through my post graduate diploma program.<br>👯 I’m looking to collaborate on: Software   development projects where I can contribute with my knowledge of MERN stack, software development methodologies, and algorithms.<br>🤝 I’m looking for help with: Mastering MySQL for database management and learning efficient data structures and algorithms.<br>🌱 I’m currently learning: Advanced topics in computing, including web-based programming with the MERN stack, software development methodologies, DSA and MySQL.<br>⚡Fun fact: I enjoy exploring new coding challenges and finding creative solutions to everyday problems through technology!
 
 
 ## 🌐 Socials:
