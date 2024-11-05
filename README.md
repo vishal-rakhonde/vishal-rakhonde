@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Vishal Rakhonde</h1>
-💫 About Me:
-🔭 I’m currently working on: Enhancing my skills in advanced computing through my post graduate diploma program.<br>👯 I’m looking to collaborate on: Software   development projects where I can contribute with my knowledge of MERN stack, software development methodologies, and algorithms.<br>🤝 I’m looking for help with: Mastering MySQL for database management and learning efficient data structures and algorithms.<br>🌱 I’m currently learning: Advanced topics in computing, including web-based programming with the MERN stack, software development methodologies, DSA and MySQL.<br>⚡Fun fact: I enjoy exploring new coding challenges and finding creative solutions to everyday problems through technology!
 
+markdown
+Copy code
+<h1 align="center">Hi 👋, I'm Vishal Rakhonde</h1>
+<p align="center">
+  <em>Full Stack Developer | MERN Enthusiast | Lifelong Learner</em>
+</p>
+
+---
+
+### 💫 About Me:
+
+- 🔭 **Currently Working On:** Enhancing my skills in advanced computing through my postgraduate diploma program.
+- 👯 **Looking to Collaborate On:** Software development projects where I can contribute with my knowledge of the MERN stack, software development methodologies, and algorithms.
+- 🤝 **Looking for Help With:** Mastering MySQL for efficient database management and deepening my understanding of data structures and algorithms.
+- 🌱 **Currently Learning:** Advanced topics in computing, including web-based programming with the MERN stack, software development methodologies, DSA, and MySQL.
+- ⚡ **Fun Fact:** I enjoy tackling coding challenges and finding creative solutions to everyday problems through technology!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishalrakhonde) 
