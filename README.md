@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Rakhonde</h1>
 <p align="center">
-  <em>Full Stack Developer | MERN Enthusiast | Lifelong Learner</em>
+  <em>Full Stack Developer | Lifelong Learner</em>
 </p>
 
 ---
