@@ -3,7 +3,6 @@
 <p align="center">
   <em>Full Stack Developer | Lifelong Learner</em>
 </p>
-
 ---
 ### 💫 About Me:
 
