@@ -5,7 +5,6 @@
 </p>
 ---
 ### 💫 About Me:
-
 - 🔭 **Currently Working On:** Enhancing my skills in advanced computing through my postgraduate diploma program.
 - 👯 **Looking to Collaborate On:** Software development projects where I can contribute with my knowledge of the MERN stack, software development methodologies, and algorithms.
 - 🤝 **Looking for Help With:** Mastering MySQL for efficient database management and deepening my understanding of data structures and algorithms.
