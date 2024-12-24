@@ -7,7 +7,6 @@
 ### 💫 About Me: 
 🔭 Currently Working On: Enhancing my skills in advanced computing through my postgraduate diploma program.<br>👯 Looking to Collaborate On: Software development projects where I can contribute with my knowledge of the MERN stack, software development methodologies, and algorithms.<br>🤝 Looking for Help With: Mastering MySQL for efficient database management and deepening my understanding of data structures and algorithms.<br>🌱 Currently Learning: Advanced topics in computing, including web-based programming with the MERN stack, software development methodologies, DSA, and MySQL.<br>⚡ Fun Fact: I enjoy tackling coding challenges and finding creative solutions to everyday problems through technology!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalrakhonde) 
 
