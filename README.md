@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Rakhonde</h1>
-
 <p align="center">
   <em>Full Stack Developer</em>
 </p>
